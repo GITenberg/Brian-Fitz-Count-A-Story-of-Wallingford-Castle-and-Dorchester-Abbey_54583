@@ -1,5 +1,8 @@
 _repo: Brian-Fitz-Count-A-Story-of-Wallingford-Castle-and-Dorchester-Abbey_54583
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 54583-h/images/cover.jpg
 creator:
   author:
     agent_name: Crake, A. D. (Augustine David)
@@ -9,6 +12,8 @@ creator:
     gutenberg_agent_id: '4926'
     url: http://www.gutenberg.org/2009/agents/4926
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/54583#Brian-Fitz-Count-A-Story-of-Wallingford-Castle-and-Dorchester-Abbey
 gutenberg_issued: '2017-04-20'
 gutenberg_type: Text
 identifiers:
